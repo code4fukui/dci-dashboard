@@ -1,5 +1,7 @@
 # dci-dashboard
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A dashboard to visualize the "Digital Competitiveness Index (DCI)" for each prefecture in Japan.
 
 ## Demo
