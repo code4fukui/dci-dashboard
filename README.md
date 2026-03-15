@@ -1,7 +1,17 @@
 # dci-dashboard
- 
-- [DCIダッシュボード](https://code4fukui.github.io/dci-dashboard/)
 
-## data
+A dashboard to visualize the "Digital Competitiveness Index (DCI)" for each prefecture in Japan.
 
-- [野村総合研究所(NRI)による「DCIにみる都道府県別デジタル度」のCSVデータ](https://github.com/code4fukui/dci-stat/)
+## Demo
+[dci-dashboard](https://code4fukui.github.io/dci-dashboard/)
+
+## Features
+- Displays the DCI, Internet usage, digital public services, connectivity, and human capital rankings for each prefecture
+- Color-coded visualization of the DCI values
+- Ability to click on a prefecture to see detailed information
+
+## Data / API
+The data is from the "Digital Competitiveness Index (DCI) by prefecture" report by Nomura Research Institute (NRI), available as a [CSV dataset](https://github.com/code4fukui/dci-stat/) in this repository.
+
+## License
+This project is licensed under the MIT License.
