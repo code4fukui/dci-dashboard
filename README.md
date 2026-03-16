@@ -16,4 +16,4 @@ A dashboard to visualize the "Digital Competitiveness Index (DCI)" for each pref
 The data is from the "Digital Competitiveness Index (DCI) by prefecture" report by Nomura Research Institute (NRI), available as a [CSV dataset](https://github.com/code4fukui/dci-stat/) in this repository.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
